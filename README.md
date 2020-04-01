@@ -747,6 +747,7 @@ for Data Analytics at Twitter.
 * [Graph-Powered Machine Learning](https://www.manning.com/books/graph-powered-machine-learning) - Alessandro Negro. Combine graph theory and models to improve machine learning projects
 
 ### Data Visualization
+ * [Data analytics] (https://www.datamorphix.ai/) 
  * [The beauty of data visualization](https://www.youtube.com/watch?v=5Zg-C8AAIGg)
  * [Designing Data Visualizations with Noah Iliinsky](https://www.youtube.com/watch?v=R-oiKt7bUU8)
  * [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://www.youtube.com/watch?v=jbkSRLYSojo)
